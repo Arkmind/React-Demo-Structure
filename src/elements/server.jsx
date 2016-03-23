@@ -1,4 +1,6 @@
-export class HelloMessage extends React.Component {
+import { Component } from 'react'
+
+export class HelloMessage extends Component {
 
   render() {
     return (
